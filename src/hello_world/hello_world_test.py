@@ -1,6 +1,6 @@
 import unittest
 
-from hello_world import hello
+from .hello_world import hello
 
 # Tests adapted from `problem-specifications//canonical-data.json`
 
